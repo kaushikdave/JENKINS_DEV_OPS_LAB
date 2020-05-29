@@ -9,7 +9,7 @@
 <form action="login">
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
-   Sunil Nagaraj
+   KAUSHIK DAVE
   </div>
 
   <div class="container">
